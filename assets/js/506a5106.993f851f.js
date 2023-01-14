@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[635],{7044:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/robot-intel-class-sp23/blog/tags/hola","allTagsPath":"/robot-intel-class-sp23/blog/tags","count":1}')}}]);

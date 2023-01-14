@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[6069],{6190:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/robot-intel-class-sp23/blog/tags/facebook","allTagsPath":"/robot-intel-class-sp23/blog/tags","count":1}')}}]);
